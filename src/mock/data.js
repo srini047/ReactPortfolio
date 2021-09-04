@@ -10,8 +10,8 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'Sriniketh J',
+  subtitle: 'Sophomore Student @PSGiTech',
   cta: '',
 };
 
@@ -21,37 +21,64 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1FbTVMfWzFc9E1jvWtk4pLK5dCmk35kwP/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project-1.jpg',
     title: '',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/srini047/Hack6iX', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project-2.jpg',
     title: '',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://public.tableau.com/app/profile/sriniketh.j/viz/ViztaVizuals/ViztaVisual-Dashboard', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project-3.jpg',
     title: '',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project-4.jpg',
+    title: '',
+    info: '',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/srini047/Code-in-Place-2021', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project-5.jpg',
+    title: '',
+    info: '',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project-6.jpg',
+    title: '',
+    info: '',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/srini047/HomeSafetyandAutomationSystem', // if no repo, the button will not show up
   },
 ];
 
